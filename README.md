@@ -5,7 +5,7 @@
 ## Description
 **You Are Empty - Gorsovet (Counter-Attack Music)** is a sound mod for Insurgency. It replaces the 'Counter-Attack' music with Gorsovet (Council of City) music from official You Are Empty soundtrack. The music is played during co-op when enemy is counter-attacking the objective.
 
-## Credits:
+## Credits
 Music from the video game You Are Empty (2006), by Mandel ArtPlains, Digital Spray Studios and 1C Company<br/>
 Music by Dimitriy Dyachenko
 
